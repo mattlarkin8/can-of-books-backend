@@ -41,3 +41,48 @@ Clone this repo to your own account with the green "Use this template" button. T
 - How will you approach each other and the challenge of building an application knowing that it is impossible for two people to be at the exact same place in understanding and skill level?
   - by understanding each others strength and understanding that it's going to be different. Don't be afraid to ask for help.
   
+## Time Estimate
+
+### Lab 11
+
+Name of feature: Feature 2: Storage
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 6:00
+
+Finish time: 8:00
+
+Actual time needed to complete: 2 hours
+
+Name of feature: Feature 3: Book component
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 8:30
+
+Finish time: 10:00
+
+Actual time needed to complete: 1.5 hours
+
+### Lab 12
+
+Name of feature: Feature 1: Create
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+Name of feature: Feature 2: Delete
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
