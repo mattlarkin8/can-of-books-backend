@@ -71,18 +71,18 @@ Name of feature: Feature 1: Create
 
 Estimate of time needed to complete: 1.5 hours
 
-Start time: 
+Start time: 6:30
 
-Finish time: 
+Finish time: 9:30
 
-Actual time needed to complete: 
+Actual time needed to complete: 3 hours
 
 Name of feature: Feature 2: Delete
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 9:45
 
-Finish time: 
+Finish time: 11:20
 
-Actual time needed to complete: 
+Actual time needed to complete: 1.5 hours
