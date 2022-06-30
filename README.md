@@ -86,3 +86,15 @@ Start time: 9:45
 Finish time: 11:20
 
 Actual time needed to complete: 1.5 hours
+
+### Lab 13
+
+Name of feature: Feature 1: Create
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 5:00
+
+Finish time: 8:00
+
+Actual time needed to complete: 3 hours
